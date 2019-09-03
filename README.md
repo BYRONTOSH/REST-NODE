@@ -1,0 +1,8 @@
+BIENVENIDOS 
+
+    ESTA ES UNA APLICACIÓN DE SERVER REST CON NODE 
+
+            RECUERDA HACER UN npm i
+
+
+            
